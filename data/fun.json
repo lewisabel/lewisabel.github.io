@@ -1,0 +1,52 @@
+{
+  "split": 2,
+  "currently": [
+    {"label": "reading", "value": "Payback by Margaret Atwood"},
+    {"label": "listening", "value": "Naturally by Nectar Woode"},
+    {"label": "making", "value": "baguettes"},
+    {"label": "playing", "value": "Krillion"}
+  ],
+  "ticket": "New York City",
+  "funFact": "I was named after a hurricane!",
+  "polaroids": [
+    {
+      "title": "hiking",
+      "color": "#ff7a3d",
+      "rotate": -4,
+      "image": "assets/images/fun/hiking.jpg",
+      "story": "Spent 4 days hiking in the Dolomites from hut to hut!",
+      "when": "August 2026"
+    },
+    {
+      "title": "cooking",
+      "color": "#1d6a50",
+      "rotate": 3,
+      "image": "assets/images/fun/cooking.jpg",
+      "story": "Apple cider glazed pork chops with caramelized onions",
+      "when": "December 2025"
+    },
+    {
+      "title": "smoking cheese!",
+      "color": "#1f5fd0",
+      "rotate": 2,
+      "image": "assets/images/fun/smoking-cheese.jpg",
+      "story": "I annually organize a night where I gather friends to smoke cheese with different woods and pair with other foods for an amazing charcuterie board!",
+      "when": "Since 2024"
+    },
+    {
+      "title": "field hockey",
+      "color": "#d6322b",
+      "rotate": -3,
+      "story": "Been playing since I was 9! Currently a very mediocre defense player and love being out on the pitch!",
+      "when": "Since a very long time ago"
+    },
+    {
+      "title": "sewing",
+      "color": "#ffd84d",
+      "rotate": -2,
+      "image": "assets/images/fun/sewing.jpg",
+      "story": "Joint project with my brother recreating Sabrina Carpenter’s dress in the Feather music video",
+      "when": "May 2024"
+    }
+  ]
+}

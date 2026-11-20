@@ -1,0 +1,21 @@
+[
+  {"type": "breadboard", "left": 0, "y": 90.1, "rotate": -2},
+  {"type": "ruler", "right": 0, "y": 27.3, "rotate": 3},
+  {"type": "pliers", "left": 28, "y": 0.5, "rotate": -12},
+  {"type": "screwdriver", "left": 36, "y": 47.1, "rotate": -24},
+  {"type": "esp32", "left": 0, "y": 20.7, "rotate": -3},
+  {"type": "resistor", "left": 1, "y": 1.7, "rotate": 20, "bands": ["#8b4513", "#111", "#d6322b", "#d4af37"]},
+  {"type": "resistor", "left": 48, "y": 23.8, "rotate": -15, "bands": ["#e8801a", "#e8801a", "#8b4513", "#c0c0c0"]},
+  {"type": "resistor", "right": 3, "y": 46.3, "rotate": 10, "bands": ["#2a9d4a", "#1f5fd0", "#f2c200", "#d4af37"]},
+  {"type": "ecap", "left": 1, "y": 46.3, "rotate": -8},
+  {"type": "dcap", "right": 3, "y": 20.7, "rotate": 12},
+  {"type": "multimeter", "right": 4, "y": 72.7, "rotate": -10},
+  {"type": "dip", "left": 30, "y": 52.9, "rotate": -6},
+  {"type": "led", "left": 63, "y": 1.7, "rotate": 15, "color": "#ff3b30"},
+  {"type": "led", "left": 9, "y": 74.4, "rotate": -14, "color": "#2fcf5a"},
+  {"type": "tweezers", "left": 46, "y": 73.1, "rotate": 18},
+  {"type": "spool", "right": 11, "y": 89.7, "rotate": 0},
+  {"type": "coin", "right": 3, "y": 83.1, "rotate": 10},
+  {"type": "cutters", "left": 58, "y": 91.7, "rotate": 8},
+  {"type": "jumpers", "left": 40, "y": 85.1, "rotate": -5}
+]

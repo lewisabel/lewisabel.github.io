@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Hi! My name is Isabel!",
+    "color": "#ffe27a",
+    "pin": "#d6322b",
+    "rotate": 2,
+    "wide": true,
+    "text": "I am an Engineering Physics student at UBC focusing on Electrical Engineering and Math. I have experience building electrical systems, PCBA design and verification, and electromechanical integration, not to mention a healthy side of firmware and software. I love working in a fast paced environment with quick iterative design where I get to go through the whole idea to prototype to validation cycle. Check out the Portfolio page for more details on some cool technical projects and the Fun page for a bit more about me outside of engineering. Hope you have some fun looking around!"
+  },
+  {
+    "title": "What I’m learning right now",
+    "color": "#ffb3c1",
+    "pin": "#1f5fd0",
+    "rotate": -3,
+    "items": ["Power electronics", "Waveguide design", "Group Theory", "Quantum computing"]
+  },
+  {
+    "title": "Things I find cool",
+    "color": "#a8d8ff",
+    "pin": "#d6322b",
+    "rotate": 4,
+    "items": ["Mathematical modeling and analysis", "Electromagnetism", "Photonics", "RF"]
+  },
+  {
+    "title": "Things I care deeply about",
+    "color": "#b9e4c9",
+    "pin": "#1f5fd0",
+    "rotate": -2,
+    "items": ["Accessible education and information", "Green technology", "Forming community and bringing people together"]
+  }
+]
